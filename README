@@ -1,0 +1,6 @@
+Iterate through all events, figure out the distribution of first onset
+Determine best algorithm for predicting origin time
+
+NOTES: Run virtualenv and put PROJECTS in path (requires DyfiMysql)
+
+
